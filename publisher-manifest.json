@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "0d1464f0ac1b89ba8928873d",
+  "owner": "cwcqqj",
+  "repo": "page-892c3395bf7195283ccb6e44",
+  "title": "机场推荐",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "892c3395bf7195283ccb6e44",
+      "a": "机场推荐",
+      "b": "",
+      "entity": "机场推荐",
+      "brand": "机场推荐",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c609c0b6ecc9adbeda6e393ad2fb4778c5c2d6b8d723eb3b597fc898704fdbe7",
+      "content": {
+        "keyword1": "机场推荐",
+        "keyword2": "",
+        "primary_entity": "机场推荐",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "机场推荐提供X机场 VPN加速器服务，专业客户端下载，高速节点池。选择适合您的套餐，解锁流媒体，游戏加速优化。",
+          "AI_DESCRIPTION": "机场推荐提供X机场 VPN加速器服务，专业客户端下载，高速节点池。选择适合您的套餐，解锁流媒体，游戏加速优化。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --coral: #ff6b6b;\n            --warm-white: #f8f5f0;\n            --warm-light: #fffaf0;\n        }\n        * {\n            margin: 0;\n            padding: 0;\n            box-sizing: border-box;\n        }\n        body {\n            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            background-color: var(--warm-white);\n            color: #333;\n            line-height: 1.7;\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 0 20px;\n        }\n        header {\n            background: #fff;\n            padding: 20px 0;\n            box-shadow: 0 2px 10px rgba(0,0,0,0.08);\n            position: sticky;\n            top: 0;\n            z-index: 10;\n        }\n        .brand-name {\n            color: var(--coral);\n            font-size: 2.2em;\n            font-weight: 700;\n        }\n        main {\n            padding: 30px 0;\n        }\n        h1 {\n            color: var(--coral);\n            font-size: 2.4em;\n            margin-bottom: 10px;\n            text-align: center;\n        }\n        h2 {\n            color: var(--coral);\n            font-size: 1.8em;\n            margin: 40px 0 20px;\n            border-bottom: 3px solid var(--coral);\n            padding-bottom: 10px;\n        }\n        .intro {\n            background: #fff;\n            padding: 30px;\n            border-radius: 12px;\n            box-shadow: 0 4px 15px rgba(255,107,107,0.08);\n            margin-bottom: 30px;\n        }\n        .usage {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n            gap: 20px;\n            margin-bottom: 40px;\n        }\n        .usage li {\n            background: #fff;\n            padding: 20px;\n            border-radius: 10px;\n            box-shadow: 0 2px 8px rgba(0,0,0,0.06);\n            list-style: none;\n        }\n        .usage li::before {\n            content: \"●\";\n            color: var(--coral);\n            margin-right: 10px;\n        }\n        .config-steps {\n            background: #fff;\n            padding: 30px;\n            border-radius: 12px;\n            box-shadow: 0 4px 15px rgba(255,107,107,0.08);\n            margin-bottom: 40px;\n        }\n        .step {\n            background: var(--warm-light);\n            margin-bottom: 15px;\n            padding: 20px;\n            border-radius: 10px;\n            border-left: 6px solid var(--coral);\n        }\n        .step h3 {\n            color: #333;\n            margin-bottom: 8px;\n        }\n        .plans-grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));\n            gap: 25px;\n            margin-bottom: 40px;\n        }\n        .plan-card {\n            background: #fff;\n            border-radius: 12px;\n            overflow: hidden;\n            box-shadow: 0 4px 15px rgba(0,0,0,0.06);\n            transition: transform 0.3s;\n        }\n        .plan-card:hover {\n            transform: translateY(-8px);\n        }\n        .plan-header {\n            padding: 20px;\n            text-align: center;\n        }\n        .plan-flagship {\n            border: 3px solid var(--coral);\n            position: relative;\n        }\n        .plan-flagship::after {\n            content: \"推荐\";\n            position: absolute;\n            top: 20px;\n            right: 20px;\n            background: var(--coral);\n            color: #fff;\n            font-size: 0.9em;\n            padding: 4px 12px;\n            border-radius: 20px;\n        }\n        .plan-name {\n            font-size: 1.5em;\n            color: #333;\n            margin-bottom: 8px;\n        }\n        .price {\n            color: #666;\n            font-size: 1.1em;\n            margin-bottom: 15px;\n        }\n        .features {\n            padding: 0 20px 20px;\n            list-style: none;\n        }\n        .features li {\n            padding: 8px 0;\n            border-bottom: 1px solid #eee;\n        }\n        .features li:last-child {\n            border-bottom: none;\n        }\n        .cta {\n            display: block;\n            width: 100%;\n            background: var(--coral);\n            color: #fff;\n            text-align: center;\n            padding: 14px;\n            border: none;\n            border-radius: 8px;\n            font-size: 1.1em;\n            cursor: pointer;\n            margin-top: 20px;\n        }\n        details {\n            background: var(--warm-light);\n            margin-bottom: 12px;\n            border-radius: 10px;\n            overflow: hidden;\n        }\n        summary {\n            padding: 18px 20px;\n            font-weight: 600;\n            cursor: pointer;\n            font-size: 1.1em;\n        }\n        summary::-webkit-details-marker {\n            display: none;\n        }\n        .faq-content {\n            padding: 0 20px 20px;\n            color: #555;\n        }\n        footer {\n            background: #fff;\n            padding: 30px 20px;\n            text-align: center;\n            border-top: 2px solid #eee;\n            color: #666;\n        }\n        footer a {\n            color: var(--coral);\n            text-decoration: none;\n        }\n        @media (max-width: 768px) {\n            body {\n                padding: 0 15px;\n            }\n            h1 {\n                font-size: 2em;\n            }\n            h2 {\n                font-size: 1.6em;\n            }\n            .plans-grid {\n                grid-template-columns: 1fr;\n            }\n            .config-steps {\n                padding: 20px;\n            }\n        }\n    </style>\n\n\n    <header>\n        <h1 class=\"brand-name\">机场推荐</h1>\n        <p>X机场 VPN加速器 | 客户端下载 | 官网</p>\n    </header>\n    <main>\n        <section class=\"intro\">\n            <h2>机场推荐品牌简介</h2>\n            <p>机场推荐是专业的VPN与机场服务提供商，专注于为用户提供稳定高速的网络加速方案。我们的X机场拥有海量优质节点池，助力您突破地域限制，实现快速稳定连接。</p>\n        </section>\n        \n        <section class=\"usage\">\n            <h2>使用场景</h2>\n            <ul>\n                <li>解锁Netflix、YouTube、Disney+ 等国际流媒体平台</li>\n                <li>游戏加速，降低国际游戏延迟</li>\n                <li>科学上网，安全访问被屏蔽网站</li>\n                <li>隐私保护，多设备同时在线</li>\n            </ul>\n        </section>\n        \n        <section class=\"config-steps\">\n            <h2>配置流程</h2>\n            <p>按照以下5个简单步骤，即可完成X机场的快速配置</p>\n            <div>\n                <div class=\"step\">\n                    <h3>步骤1：选择套餐</h3>\n                    <p>根据您的使用需求，在基础版、旗舰版或团队版中选择最适合的一款。</p>\n                </div>\n                <div class=\"step\">\n                    <h3>步骤2：完成支付</h3>\n                    <p>支持多种支付方式，支付完成后立即获得专属订阅链接。</p>\n                </div>\n                <div class=\"step\">\n                    <h3>步骤3：下载客户端</h3>\n                    <p>从官网下载官方客户端，兼容Windows、Mac、iOS、Android等多平台。</p>\n                </div>\n                <div class=\"step\">\n                    <h3>步骤4：导入订阅</h3>\n                    <p>打开客户端，粘贴机场推荐提供的订阅链接，自动导入配置。</p>\n                </div>\n                <div class=\"step\">\n                    <h3>步骤5：连接节点</h3>\n                    <p>选择优质节点一键连接，即可享受高速网络加速。</p>\n                </div>\n            </div>\n        </section>\n        \n        <section>\n            <h2>推荐套餐</h2>\n            <div class=\"plans-grid\">\n                \n                <div class=\"plan-card\">\n                    <div class=\"plan-header\">\n                        <div class=\"plan-name\">基础版</div>\n                        <div class=\"price\">¥15/月</div>\n                        <div>按年付仅需 ¥150/年</div>\n                    </div>\n                    <ul class=\"features\">\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                    <a href=\"#\" class=\"cta\">立即选择基础版</a>\n                </div>\n                \n                \n                <div class=\"plan-card plan-flagship\">\n                    <div class=\"plan-header\">\n                        <div class=\"plan-name\">旗舰版</div>\n                        <div class=\"price\">¥35/月</div>\n                        <div>按年付仅需 ¥350/年</div>\n                    </div>\n                    <ul class=\"features\">\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                    <a href=\"#\" class=\"cta\">立即选择旗舰版</a>\n                </div>\n                \n                \n                <div class=\"plan-card\">\n                    <div class=\"plan-header\">\n                        <div class=\"plan-name\">团队版</div>\n                        <div class=\"price\">¥85/月</div>\n                        <div>按年付仅需 ¥850/年</div>\n                    </div>\n                    <ul class=\"features\">\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                    <a href=\"#\" class=\"cta\">立即选择团队版</a>\n                </div>\n            </div>\n        </section>\n        \n        <section>\n            <h2>常见问题 FAQ</h2>\n            <details>\n                <summary>如何获取X机场的订阅链接？</summary>\n                <div class=\"faq-content\">登录您的账户后，在套餐页面即可查看和管理订阅链接，安全可靠。</div>\n            </details>\n            <details>\n                <summary>支持哪些设备和系统？</summary>\n                <div class=\"faq-content\">支持 Windows、Mac、iOS、Android、Linux 等主流设备，客户端兼容性良好。</div>\n            </details>\n            <details>\n                <summary>流量超出后怎么办？</summary>\n                <div class=\"faq-content\">超出流量后，系统会自动限速，但可购买续费套餐继续使用。流量统计实时。</div>\n            </details>\n            <details>\n                <summary>如何解锁流媒体平台？</summary>\n                <div class=\"faq-content\">旗舰版及以上套餐支持全节点原生解锁，连接对应节点即可观看Netflix等内容。</div>\n            </details>\n            <details>\n                <summary>客服支持时间如何？</summary>\n                <div class=\"faq-content\">7x24 在线客服，提供专业技术支持，工单响应及时。</div>\n            </details>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    <footer>\n        <p>© 2024 机场推荐 版权所有</p>\n        <p><a href=\"#\">官网下载</a> | <a href=\"#\">隐私政策</a> | <a href=\"#\">联系客服</a></p>\n        <p>友情链接：X机场社区 · 合作伙伴站点</p>\n    </footer>\n\n",
+          "hash": "e3aaa0f7245a2a9d9f79054b0e603f14cd52e9d9b9bab9d7e28633bd0ed78aa4",
+          "seo": {
+            "title": "机场推荐 | X机场 VPN 加速器 客户端下载 官网",
+            "keywords": "机场推荐, X机场, VPN加速器, 客户端下载, 机场订阅, 高速VPN, 节点池, VPN加速",
+            "description": "机场推荐提供X机场 VPN加速器服务，专业客户端下载，高速节点池。选择适合您的套餐，解锁流媒体，游戏加速优化。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "iupocwe.cn",
+    "host": "p-13adba9628.iupocwe.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "7b851f07784924d383b5f159be47c592f5c661d3f7a56de5a325516a6ffa53de",
+    "sitemap.xml": "d4c49f5508ad81ffaf70a66a6d5bf75871b3360b7308a481e7b8c01bf597b002",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "24ba029d66569b63cbcfc6496d0e42004e0cb10d97faa08a6aaa582cf2bc5a11",
+    "robots.txt": "31c70dbe297ca6ca3cf461df632ff5b440064eac697fcd06a4fed8eee8f1aecb",
+    "d289c8b5a4da533de1b643cc60306dae.txt": "fd77d3d5956c279f41cafd2dda8c7a5e1134248843aedab0feaa08828384306f"
+  },
+  "revision": "b29af73e35233ae9e0eff0d92fc560998c51038e7acf81c1ffa479704036cfa7"
+}
